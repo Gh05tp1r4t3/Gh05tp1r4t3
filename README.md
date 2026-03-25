@@ -1,10 +1,19 @@
 <div align="center">
 
-# Mirza Fahad Raza
-### Cyber Security Engineer · DevSecOps · GRC · Application Security
+```
+██████╗  █████╗ ██████╗  █████╗ ██████╗ ███████╗██╗     ██╗     ██╗   ██╗███╗   ███╗    ██╗ ██████╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║     ██║     ██║   ██║████╗ ████║    ██║██╔═══██╗
+██████╔╝███████║██████╔╝███████║██████╔╝█████╗  ██║     ██║     ██║   ██║██╔████╔██║    ██║██║   ██║
+██╔═══╝ ██╔══██║██╔══██╗██╔══██║██╔══██╗██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║    ██║██║   ██║
+██║     ██║  ██║██║  ██║██║  ██║██████╔╝███████╗███████╗███████╗╚██████╔╝██║ ╚═╝ ██║    ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝    ╚═╝ ╚═════╝
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gh05tp1r4t3-181717?style=for-the-badge&logo=github)](https://github.com/Gh05tp1r4t3)
-[![Email](https://img.shields.io/badge/Email-fahadraza7089%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadraza7089@gmail.com)
+# Mirza Fahad Raza
+### Cyber Security Engineer · DevSecOps · GRC
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-raza-36babb204/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadraza7089@gmail.com)
 [![Location](https://img.shields.io/badge/Islamabad,_Pakistan-1F4E79?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -16,128 +25,96 @@
 ```yaml
 name:       Mirza Fahad Raza
 education:  B.S. Cyber Security @ FAST-NUCES Islamabad (2022–2026)
-focus:      [ DevSecOps, GRC & Compliance, Application Security, Vulnerability Research ]
-currently:  Building Parabellum IO as my core Final Year Project, alongside practical security tools in SAST, secure sharing, AI-assisted remediation, and applied cryptography
-mindset:    "Build secure systems. Test relentlessly. Improve continuously."
+focus:      [ DevSecOps, GRC & Compliance, Penetration Testing, Malware Analysis ]
+currently:  Building Parabellum IO — Automated GRC & DevSecOps Compliance Platform
+mindset:    "Build it secure. Audit it always. Break it before they do."
 ```
 
-I am a cybersecurity engineer focused on **DevSecOps**, **application security**, and **Governance, Risk & Compliance**. My work sits at the intersection of secure software engineering and security operations, with an emphasis on building usable security tooling, identifying weaknesses early in the SDLC, and translating technical findings into structured risk reduction.
+A results-driven Cyber Security professional specialising in the convergence of **DevSecOps** and **Governance, Risk & Compliance**. I embed security into development pipelines, map technical findings to compliance frameworks, and approach every challenge with a structured, risk-first mindset.
 
 ---
 
 ## 🔭 Currently Working On
 
-### [Parabellum IO](#)
-My **core Final Year Project** and flagship initiative: an **Automated GRC & DevSecOps Compliance Platform** designed to integrate security, governance, and compliance checks directly into modern development workflows.
+**[Parabellum IO](https://github.com/fahad-raza/parabellum-io)** — A full-stack Automated GRC & DevSecOps Compliance Platform that embeds Policy-as-Code enforcement, real-time compliance scoring, and threat modeling (STRIDE, PASTA, LINDDUN) directly into CI/CD pipelines — mapped to **NIST CSF**, **CIS Controls v8**, and **ISO/IEC 27001**.
 
-**Key directions:**
-- Policy-as-Code driven compliance validation
-- DevSecOps pipeline integration
-- Automated risk and control mapping
-- Threat modeling support using frameworks such as **STRIDE**, **PASTA**, and **LINDDUN**
-- Alignment with **NIST CSF**, **CIS Controls**, **OWASP**, and **ISO/IEC 27001**
-
-**Planned stack / architecture direction:** Python · Flask · React.js · Docker · GitHub Actions · SonarQube · Snyk · Trivy
-
-> Parabellum IO remains my primary long-term build and the central project I am actively developing as part of my FYP.
+> Stack: `Python` · `Flask` · `React.js` · `Docker` · `GitHub Actions` · `SonarQube` · `Snyk` · `Trivy`
 
 ---
 
-## 📌 Public Repositories
+## 🤝 Looking to Collaborate On
 
-### 1) [Secure File Sharing](https://github.com/Gh05tp1r4t3/Secure-File-Sharing-)
-Secure end-to-end encrypted file sharing platform with **AES-256-GCM client-side encryption**, **TOTP-based MFA**, **JWT/RBAC authorization**, **audit logging**, **rate limiting**, and a responsive frontend.
-
-**Core themes:** Secure file transfer · Access control · Authentication · Forensics-ready logging  
-**Stack:** Flask · JavaScript · JWT · TOTP · Docker
-
-### 2) [VARE — AI-Powered Vulnerability Assessment & Remediation Engine](https://github.com/Gh05tp1r4t3/AI-Assisted-Vulnerability-Prioritization-and-Remediation-Suggestion-Tool)
-An AI-powered security project that aggregates data from **NVD**, **Exploit-DB**, **Nmap**, and **OpenVAS**, predicts **CVSS severity**, and generates remediation guidance through an interactive dashboard.
-
-**Core themes:** Vulnerability intelligence · ML/NLP for security · Risk scoring · Remediation automation  
-**Stack:** Python · Streamlit · Jupyter Notebook · ML/NLP
-
-### 3) [SAST Rule Engine](https://github.com/Gh05tp1r4t3/SAST-Rule-Engine-)
-A lightweight custom **Static Application Security Testing** tool for identifying **OWASP Top 10** weakness patterns in Python and JavaScript codebases, with terminal, JSON, and HTML reporting.
-
-**Core themes:** Secure code review · Static analysis · Developer security tooling · OWASP mapping  
-**Stack:** Python · Rule-based scanning · HTML/JSON reporting
-
-### 4) [Multi-User Crypto Wallet with Shamir's Secret Sharing](https://github.com/Gh05tp1r4t3/Multi-User-Crypto-Wallet-with-Shamir-s-Secret-Sharing)
-A Python/Tkinter desktop application that uses **threshold cryptography** and **Shamir’s Secret Sharing** to split and recover wallet secrets across multiple users.
-
-**Core themes:** Applied cryptography · Secret sharing · Threshold recovery · Secure wallet design  
-**Stack:** Python · Tkinter · JSON
-
----
-
-## 🛠️ Technical Areas
-
-### Security & DevSecOps
-- Static Application Security Testing (SAST)
-- Vulnerability assessment and prioritisation
-- Secure SDLC and defensive coding
-- Authentication, authorization, and audit logging
-- Threat-oriented security tooling
-- GRC automation and compliance-aware engineering
-
-### Languages & Frameworks
-- Python
-- JavaScript
-- Flask
-- Streamlit
-- Tkinter
-- Bash
-- React.js
-
-### Security Concepts & Frameworks
-- OWASP Top 10
-- CVSS-based vulnerability scoring
-- RBAC / JWT security models
-- Multi-factor authentication (TOTP)
-- Shamir’s Secret Sharing
-- NIST CSF
-- CIS Controls
-- ISO/IEC 27001
-
----
-
-## 🤝 Open to Collaborate On
-
-- DevSecOps tooling and security automation
-- Vulnerability research and remediation workflows
-- SAST / secure code analysis projects
-- GRC-focused security dashboards and compliance tooling
-- Practical cybersecurity projects for learning, research, or competitions
+- DevSecOps tooling & security automation pipelines
+- GRC framework implementation & compliance tooling
+- Open-source penetration testing & vulnerability research
+- CTF challenges and security research projects
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced application security architecture
-- Cloud-native DevSecOps practices
-- ML-assisted vulnerability triage
-- Security telemetry and threat-informed engineering
-- Scalable compliance automation
+- Advanced DevSecOps architecture & cloud-native security
+- ML-driven vulnerability prioritisation & risk scoring
+- GRC automation at scale
+- Threat intelligence integration into CI/CD pipelines
+
+---
+
+## 🛠️ Tech Stack
+
+### Security & DevSecOps
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### GRC Frameworks
+![NIST](https://img.shields.io/badge/NIST_CSF_v2.0-003087?style=flat-square&logoColor=white)
+![CIS](https://img.shields.io/badge/CIS_Controls_v8-CC0000?style=flat-square&logoColor=white)
+![ISO27001](https://img.shields.io/badge/ISO/IEC_27001:2022-006400?style=flat-square&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔐 **Parabellum IO** | Automated GRC & DevSecOps Compliance Platform with Policy-as-Code engine | Python, React, Docker, GitHub Actions |
+| 🛡️ **Secure Share** | Encrypted file sharing with JWT auth, RBAC, and secure REST APIs | Python, JavaScript |
+| 🔍 **Vulnerability Assessment AI** | AI-powered threat analysis and remediation recommendation tool | Python |
+| 🔑 **Crypto Wallet** | Secure wallet using Shamir's Secret Sharing for key management | Python |
 
 ---
 
 
 ## 💬 Ask Me About
 
-`Application Security` · `DevSecOps` · `SAST` · `Vulnerability Assessment` · `AI for Cybersecurity` · `Cryptography` · `GRC & Compliance`
+`Penetration Testing` · `Vulnerability Assessment` · `DevSecOps Pipelines` · `GRC & Compliance` · `Malware Analysis` · `Web Application Security` · `CI/CD Security`
 
 ---
 
-## ⚡ Profile Note
+## ⚡ Fun Fact
 
-This profile highlights both my **public cybersecurity projects** and **Parabellum IO**, which remains my main FYP and long-term platform vision. My goal is to build security solutions that are technically strong, automation-driven, and operationally useful.
+> I build security systems by day and break them by night.
+
+
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gh05tp1r4t3&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gh05tp1r4t3&layout=compact&theme=dark&hide_border=true)
+*"Security is not a product, but a process."* — Bruce Schneier
 
 </div>
